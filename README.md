@@ -1,5 +1,5 @@
 <h1 align="center">
-  footballTeamCards
+  Football Team Cards
 </h1>
 
 <p>
