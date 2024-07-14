@@ -1,12 +1,13 @@
 <h1 align="center">
   footballTeamCards
 </h1>
-Free Code Camp - JavaScript Algorithms and Data Structures - Learn modern JavaScript methods By building football team cards
 
 <p>
   Learnt how to work with  DOM manipulation, object destructuring, event handling, and data filtering. This project covered concepts like switch statements, default parameters, Object.freeze(), the map() method, and more.
 </p>
 
+## Preview
+https://github.com/user-attachments/assets/0ff7f9d0-37f9-4abb-bfd9-328916096fc9
 
 ## Steps
 **S1**<br>
